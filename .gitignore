@@ -1,0 +1,11 @@
+data/
+node_modules/
+*.log
+npm-debug.log*
+.env
+.env*.local
+.next/
+.DS_Store
+coverage/
+*.csv
+!sample-bank.csv
